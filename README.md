@@ -12,11 +12,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tawfeek-khan-1055421a9" target="blank"><img align="center" src="https://img.icons8.com/bubbles/200/null/linkedin.png" alt="tawfeek-khan-1055421a9" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tawfeek1234" target="blank"><img align="center" src="https://img.icons8.com/bubbles/200/null/codechef.png" alt="tawfeek1234" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/khantawfeek00" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="khantawfeek00" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/khantawfeek00" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png" alt="khantawfeek00" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user_8lk5" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20200326201748/download312.png" alt="user_8lk5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tawfeek-khan-1055421a9" target="blank"><img align="center" src="https://img.icons8.com/bubbles/200/null/linkedin.png" alt="tawfeek-khan-1055421a9" width="40" /></a>
+<a href="https://www.codechef.com/users/tawfeek1234" target="blank"><img align="center" src="https://img.icons8.com/bubbles/200/null/codechef.png" alt="tawfeek1234" width="40" /></a>
+<a href="https://www.hackerrank.com/khantawfeek00" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="khantawfeek00" width="40" /></a>
+<a href="https://www.leetcode.com/khantawfeek00" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png" alt="khantawfeek00" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/user_8lk5" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20200326201748/download312.png" alt="user_8lk5" width="40" /></a>
 </p>
 
 <br>
