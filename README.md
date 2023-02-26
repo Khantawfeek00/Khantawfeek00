@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tawfeek01052002&label=Profile%20views&color=0e75b6&style=flat" alt="tawfeek01052002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tawfeek01052002" alt="tawfeek01052002" /></a> </p>
-
 - 🌱 I’m currently learning **DSA and Mern Stack**
 
 - 👨‍💻 All of my projects are available at [https://tawfeekkhan.netlify.app/](https://tawfeekkhan.netlify.app/)
