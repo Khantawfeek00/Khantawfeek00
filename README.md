@@ -22,17 +22,16 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://files.brandlogos.net/svg/PjKl3aKXeF/bootstrap-logo-5247297pJQ_brandlogos.net.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://www.pinclipart.com/picdir/big/396-3965857_c-c-programming-language-logo-clipart.png" alt="c" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/100/000000/express-js.png" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/144/null/java-coffee-cup-logo--v2.png" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/144/null/javascript.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/144/null/mongodb.png" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/144/null/mysql-logo.png" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/144/null/nodejs.png" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/144/null/oracle-logo.png" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-<p><img float="left" width=75% src="https://github-readme-stats.vercel.app/api/top-langs?username=tawfeek01052002&show_icons=true&locale=en&layout=compact" alt="tawfeek01052002" /></p>
-<br>
-<h3 float="left">GitHub Statistics:
-<br>
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=tawfeek01052002&show_icons=true&locale=en" alt="tawfeek01052002" /></p>
-<br>
-<br>
-<br>
-<br>
-<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tawfeek01052002&show_icons=true&locale=en&layout=compact" alt="tawfeek01052002" /></p>
 
-<h3 align="left">Contribution and Streak
+<div>
+<h3 align="center">GitHub Statistics:</h3>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tawfeek01052002&" alt="tawfeek01052002" /></p>
+<p> <img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=tawfeek01052002&show_icons=true&locale=en" alt="tawfeek01052002" /></p>
+</div>
+
+<div>
+<h3 align="center">Contribution and Streak:</h3>
+<br>
+<p> <img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=tawfeek01052002&" alt="tawfeek01052002" /></p>
+</div>
