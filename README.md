@@ -1,11 +1,19 @@
-<h1 align="center">Hi 👋, I'm Tawfeek Khan</h1>
+<h1 align="center">Hi 👋,I'm Tawfeek Khan</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
+
+<img width="400" alt="Coding" align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tawfeek01052002&label=Profile%20views&color=0e75b6&style=flat" alt="tawfeek01052002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tawfeek01052002" alt="tawfeek01052002" /></a> </p>
 
+- 🌱 I’m currently learning **DSA and Mern Stack**
+
+- 👨‍💻 All of my projects are available at [https://tawfeekkhan.netlify.app/](https://tawfeekkhan.netlify.app/)
+
 - 📫 How to reach me **khantawfeek00@gmail.com**
+
+- ⚡ Fun fact **Creative thinker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
